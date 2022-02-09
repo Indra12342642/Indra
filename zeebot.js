@@ -87,11 +87,11 @@ let _healt = JSON.parse(fs.readFileSync('./lib/rpg/healt.json'))
 
 //»»»𝘖𝘱𝘵𝘪𝘰𝘯
 let p = '```'
-publik = false
+publik = true
 hit_today = [];
 healtawal = 100
 potionawal = 1
-let lolkey = 'YouApikey' //Daftar Atau Beli Di lolhuman.xyz
+let lolkey = 'LOLKONTOL09' //Daftar Atau Beli Di lolhuman.xyz
 
 //━━━━━━━━━━━━━━━[ AU LUPA ]━━━━━━━━━━━━━━━\\
 
